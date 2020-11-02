@@ -7,11 +7,11 @@ try {
   console.log("Configuration file not found.");
   console.log("Creating a configuration file...");
   const defaults = {
-    "_token": "TOKEN",
+    "_token": "NzcyODY2MzA5Mzg2MDEwNjQ1.X6A51w.oRvoI47rkl4qwmcvJO7qC1iTpPA",
     "_prefix": "-",
-    "_owner": "ID",
-    "_admins": [],
-    "_mongoUri": "MONGODB_URL",
+    "_owner": "748240886487449721",
+    "_admins": [748240886487449721],
+    "_mongoUri": "mongodb+srv://thor:thor@cluster0.63jzj.mongodb.net/"
     "_mainGuild": "ID",
     "_staffGuild": "ID",
     "_parent": "ID",
